@@ -1,11 +1,20 @@
-# ChatTime 
-A full Realtime Chat Application with Social Auth and dedicated chat APIs/sockets.
+# ChatTime
 
-Build a full-fledged Firebase Chat Application. With social authentication including Google and Facebook using Firebase, online statuses, great design, and functionality, image support, sound notifications, the ability to create multiple rooms, and much more.
+This is a Realtime Chat Application with Social Authentication and dedicated chat APIs/sockets.
 
-React chat app using https://chatengine.io
+This is a full-fledged Firebase Chat Application. 
+It encompasses the following features :
 
-One can learn Routing, Firebase Social Login, Firebase Google Login, Firebase Facebook Login, React Context API, Chat Engine, REST API's, environment variables, and more!.
+- Social authentication including Google and Facebook using Firebase.
+- Online status.
+- Great design and functionality. 
+- Image support.
+- Sound notifications.
+- Ability to create multiple rooms, and much more.
+
+
+
+Firebase Social Login, Firebase Google Login, Firebase Facebook Login, React Context API, Chat Engine, REST API's, environment variables, and more!.
 
 ## Screenshot of the App
 
