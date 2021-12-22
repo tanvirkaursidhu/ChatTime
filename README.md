@@ -9,3 +9,4 @@ One can learn Routing, Firebase Social Login, Firebase Google Login, Firebase Fa
 
 ## Screenshot of the App
 
+<img src="https://i.ibb.co/4KSfbVc/Screenshot-523.png" alt="Screenshot-523" border="0">
