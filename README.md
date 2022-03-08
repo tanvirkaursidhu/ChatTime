@@ -18,6 +18,6 @@ Firebase Social Login, Firebase Google Login, Firebase Facebook Login, React Con
 
 ## Screenshot of the App
 
-<img src="https://i.ibb.co/TTdypVt/Screenshot-567.png" alt="Screenshot-567" border="0">
+<a href="https://ibb.co/TTdypVt"><img src="https://i.ibb.co/TTdypVt/Screenshot-567.png" alt="Screenshot-567" border="0"></a>
 
 <img src="https://i.ibb.co/d6zwxRM/Screenshot-524.png" alt="Screenshot-524" border="0">
