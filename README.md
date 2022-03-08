@@ -17,5 +17,7 @@ It encompasses the following features :
 Firebase Social Login, Firebase Google Login, Firebase Facebook Login, React Context API, Chat Engine, REST API's, environment variables, and more!.
 
 ## Screenshot of the App
-<img src="https://i.ibb.co/z5DdjyZ/Screenshot-567.png" alt="Screenshot-567" border="0">
+
+<img src="https://i.ibb.co/TTdypVt/Screenshot-567.png" alt="Screenshot-567" border="0">
+
 <img src="https://i.ibb.co/d6zwxRM/Screenshot-524.png" alt="Screenshot-524" border="0">
